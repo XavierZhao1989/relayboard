@@ -2,7 +2,7 @@
 
 Relayboard is a portfolio case study of a rough AI-generated SaaS prototype that was fixed and polished into a clickable product demo. The product is a fictional B2B pipeline desk for a sales team. `/before` keeps the unfinished draft: mixed typefaces, a purple gradient frame, dead buttons, three placeholder rows, and a canvas wider than a phone. `/after` is the same desk after the 24-item pass below: one type system, working search and filters, CSV export, a validated new-deal dialog, stage changes, account notes, and empty, loading, and error states. Every account, deal, amount, and activity line is fictional sample data, held in the browser session.
 
-**Live demo:** `https://<project-name>.vercel.app` — placeholder. Replace this with the Vercel production URL after deploy.
+**Live demo:** https://relayboard-mu.vercel.app
 
 Refreshing the browser restores the sample book. The app makes no model calls and stores nothing on a server.
 
